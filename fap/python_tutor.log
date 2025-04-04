@@ -1,0 +1,1659 @@
+2025-03-29 10:59:34,598 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 10:59:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 10:59:35,832 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def gugudan(dan):'",)
+2025-03-29 10:59:39,038 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 11
+2025-03-29 10:59:39,231 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 10:59:39] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 10:59:53,184 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 10:59:53] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 10:59:54,734 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'PrintCollector' object has no attribute 'outputs'
+2025-03-29 10:59:56,800 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 12
+2025-03-29 10:59:56,976 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 10:59:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 11:00:17,634 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 11:00:17] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 11:00:18,979 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'PrintCollector' object has no attribute 'outputs'
+2025-03-29 11:00:22,697 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 13
+2025-03-29 11:00:22,944 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 11:00:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:05:25,937 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 15:05:25,939 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 15:07:10,205 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:07:10] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 15:07:20,578 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:07:20,580 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:07:20] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 15:07:56,290 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:07:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:07:59,122 - root - ERROR - 코드 비교 중 오류 발생: object GenerateContentResponse can't be used in 'await' expression
+2025-03-29 15:07:59,125 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-03-29 15:07:59,277 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-03-29 15:07:59,283 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:07:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:10:30,516 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:10:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:10:34,145 - root - ERROR - 코드 비교 중 오류 발생: object GenerateContentResponse can't be used in 'await' expression
+2025-03-29 15:10:34,156 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def 문자열_길이_구하기(input_string):'",)
+2025-03-29 15:10:34,222 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-03-29 15:10:34,235 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:10:34] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:11:50,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 15:11:50,600 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 15:12:52,619 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:12:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 15:13:01,424 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:13:01,427 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:13:01] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 15:13:31,458 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:13:31] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:13:34,436 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'import math'",)
+2025-03-29 15:13:34,459 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-03-29 15:13:34,500 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:13:34] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:14:02,008 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:14:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:14:05,214 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 6: IndentationError: unindent does not match any outer indentation level at statement: 'print_stars(5)'",)
+2025-03-29 15:14:05,245 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 3
+2025-03-29 15:14:05,277 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:14:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:22:02,243 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 15:22:02,244 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 15:24:45,246 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:24:45] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 15:24:59,171 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:24:59,173 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:24:59] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 15:25:23,991 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:25:23] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:25:26,817 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 4: IndentationError: unexpected indent at statement: 'pi_value = math.pi'",)
+2025-03-29 15:25:26,891 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-03-29 15:25:26,903 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:25:26] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:25:51,922 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:25:51] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:25:55,242 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 4: IndentationError: unexpected indent at statement: 'random_number_1_to_10 = random.randint(1, 10)'",)
+2025-03-29 15:25:55,292 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 3
+2025-03-29 15:25:55,304 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:25:55] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:26:02,772 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:26:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:26:05,714 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 4: IndentationError: unexpected indent at statement: 'random_number_1_to_10 = random.randint(1, 10)'",)
+2025-03-29 15:26:05,763 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 4
+2025-03-29 15:26:05,774 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:26:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:26:19,986 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:26:19] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:26:23,286 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: 'ㅌㅇㅎㅌ로추추ㄴ로 ㅌㄷㄱ'",)
+2025-03-29 15:26:23,310 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 5
+2025-03-29 15:26:23,329 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:26:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:28:30,642 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:28:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:28:33,016 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 4: SyntaxError: invalid syntax at statement: 'for i in'",)
+2025-03-29 15:28:33,066 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 6
+2025-03-29 15:28:33,082 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:28:33] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:29:25,800 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:29:25] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:29:29,352 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ('Line 15: IndentationError: unindent does not match any outer indentation level at statement: \'my_dog = Dog("초코", "골든 리트리버", 3)\'',)
+2025-03-29 15:29:29,381 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 7
+2025-03-29 15:29:29,397 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:29:29] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:33:15,450 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 15:33:15,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 15:33:31,739 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:33:31] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 15:33:42,803 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:33:42,806 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:33:42] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 15:34:11,498 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:34:11] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:34:15,019 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 6: IndentationError: expected an indented block after 'elif' statement on line 6 at statement: 'elif num1 < num2:'",)
+2025-03-29 15:34:15,039 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-03-29 15:34:15,054 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:34:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:34:23,210 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:34:23] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:34:25,593 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def compare_numbers(num1, num2):'",)
+2025-03-29 15:34:25,610 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 3
+2025-03-29 15:34:25,629 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:34:25] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:37:49,493 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:37:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:37:52,679 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def compare_numbers(num1, num2):'",)
+2025-03-29 15:37:52,719 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 4
+2025-03-29 15:37:52,747 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:37:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:54:42,892 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 15:54:42,893 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 15:56:01,078 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:56:01] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 15:56:11,193 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:56:11,196 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:56:11] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 15:57:04,181 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:57:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:57:08,131 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 22: IndentationError: unindent does not match any outer indentation level at statement: 'number_list = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]'",)
+2025-03-29 15:57:08,132 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:57:08,155 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:57:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:04,106 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:07,971 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 22: IndentationError: unindent does not match any outer indentation level at statement: 'number_list = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]'",)
+2025-03-29 15:58:07,971 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:58:07,980 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:07] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:36,183 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:39,873 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def count_numbers(numbers):'",)
+2025-03-29 15:58:39,874 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:58:39,885 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:39] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:50,783 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:58:54,827 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 1: IndentationError: unexpected indent at statement: 'def count_numbers(numbers):'",)
+2025-03-29 15:58:54,827 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:58:54,839 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:58:54] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:59:01,472 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:59:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 15:59:05,710 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 1: IndentationError: unexpected indent at statement: 'def count_numbers(numbers):'",)
+2025-03-29 15:59:05,710 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 15:59:05,718 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 15:59:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:00:26,340 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:00:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:00:29,930 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ("Line 22: IndentationError: unindent does not match any outer indentation level at statement: 'number_list = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]'",)
+2025-03-29 16:00:29,930 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 16:00:29,938 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:00:29] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:01:09,625 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:01:09] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:01:12,945 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-29 16:01:12,945 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 16:01:12,953 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:01:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:04:34,738 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:04:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:04:40,495 - root - ERROR - 코드 실행 중 오류 발생: RestrictedPython 오류: ('Line 5: Augmented assignment of object items and slices is not allowed.',)
+2025-03-29 16:04:40,496 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 16:04:40,505 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:04:40] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:12:14,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.98:5000
+2025-03-29 16:12:14,317 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-29 16:13:57,557 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:13:57] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-29 16:14:08,463 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 16:14:08,471 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:14:08] "POST /api/chat HTTP/1.1" 200 -
+2025-03-29 16:14:30,541 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:14:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-29 16:14:33,737 - root - ERROR - 코드 실행 중 오류 발생: 오류 발생: python: can't open file 'C:\\Users\\dododo\\AppData\\Local\\Temp\\tmpjw_vqymt.py': [Errno 13] Permission denied
+
+2025-03-29 16:14:33,738 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-29 16:14:33,760 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2025 16:14:33] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 12:34:31,628 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 12:34:31] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 12:34:38,440 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-03-31 12:34:38,450 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 12:34:38] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 12:36:32,865 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.72:5000
+2025-03-31 12:36:32,867 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-31 12:36:54,122 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 12:36:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 12:37:05,336 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-31 12:37:05,357 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 12:37:05] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 13:09:07,590 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:07] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:09:09,739 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'ᅣᅡᅵ' is not defined
+2025-03-31 13:09:14,339 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-03-31 13:09:14,422 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:09:42,318 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:09:42,993 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-03-31 13:09:44,543 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 3
+2025-03-31 13:09:44,633 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:44] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:09:50,156 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:09:50,968 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-03-31 13:09:53,794 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 4
+2025-03-31 13:09:53,885 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:09:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 13:13:40,226 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:13:40] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 13:13:45,972 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-03-31 13:13:45,978 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:13:45] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 13:17:16,526 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:17:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 13:17:21,981 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-03-31 13:17:21,988 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:17:21] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 13:17:56,314 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:17:56] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 13:18:08,788 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-03-31 13:18:08,789 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 13:18:08] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 14:40:13,291 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.72:5000
+2025-03-31 14:40:13,297 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-31 14:40:34,978 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:40:34] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 14:40:48,099 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-31 14:40:48,101 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:40:48] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 14:41:54,218 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:41:54] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 14:41:54,910 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-03-31 14:42:01,084 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-03-31 14:42:01,212 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:42:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 14:42:05,026 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:42:05] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 14:42:05,843 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-03-31 14:42:09,163 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 3
+2025-03-31 14:42:09,280 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:42:09] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 14:42:14,925 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:42:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 14:42:15,610 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-03-31 14:42:19,124 - root - INFO - 사용자 1743139145489의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 4
+2025-03-31 14:42:19,214 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 14:42:19] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 16:17:05,033 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.72:5000
+2025-03-31 16:17:05,034 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-31 17:30:27,295 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:30:27] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 17:30:43,017 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-03-31 17:30:43,036 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:30:43] "POST /api/chat HTTP/1.1" 200 -
+2025-03-31 17:34:55,309 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:34:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:34:57,344 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-03-31 17:35:07,872 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-03-31 17:35:07,998 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:07] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:26,672 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:28,214 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-31 17:35:33,601 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 3
+2025-03-31 17:35:33,732 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:33] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:39,387 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:39] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:40,512 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-31 17:35:46,095 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 4
+2025-03-31 17:35:46,215 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:49,913 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:51,221 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-31 17:35:56,176 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 5
+2025-03-31 17:35:56,426 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:35:59,810 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:35:59] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:36:00,907 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-31 17:36:05,259 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 6
+2025-03-31 17:36:05,394 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:36:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:36:55,053 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:36:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:36:56,487 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-03-31 17:36:58,829 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 7
+2025-03-31 17:36:59,074 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:36:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-03-31 17:37:06,834 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:37:06] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-03-31 17:37:18,289 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-03-31 17:37:18,300 - werkzeug - INFO - 127.0.0.1 - - [31/Mar/2025 17:37:18] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:26:03,839 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:26:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:26:11,680 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-01 21:26:11,684 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:26:11] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:26:40,325 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:26:40] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:26:47,355 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-01 21:26:47,365 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:26:47] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:29:02,202 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-01 21:29:02,207 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-01 21:29:35,003 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:29:35] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:29:41,002 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-01 21:29:41,006 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:29:41] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:30:50,001 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:30:50] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:30:55,599 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-01 21:30:55,606 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:30:55] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:33:57,936 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:33:57] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:34:10,863 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-01 21:34:10,873 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:34:10] "POST /api/chat HTTP/1.1" 200 -
+2025-04-01 21:50:44,004 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:50:44] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-01 21:50:52,254 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-01 21:50:52,262 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 21:50:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-02 09:54:50,919 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 09:54:50] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-02 09:55:05,660 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-02 09:55:05,666 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 09:55:05] "POST /api/chat HTTP/1.1" 200 -
+2025-04-02 11:16:44,792 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:16:44] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-02 11:16:58,124 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-02 11:16:58,139 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:16:58] "POST /api/chat HTTP/1.1" 200 -
+2025-04-02 11:24:00,332 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:24:00] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-02 11:24:12,834 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-02 11:24:12,851 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:24:12] "POST /api/chat HTTP/1.1" 200 -
+2025-04-02 11:25:45,305 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:25:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-02 11:25:47,752 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-02 11:25:52,855 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 8
+2025-04-02 11:25:52,952 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:25:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-02 11:26:20,589 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:26:20] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-02 11:26:21,750 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-02 11:26:25,096 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 9
+2025-04-02 11:26:25,222 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:26:25] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-02 11:26:53,223 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:26:53] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-02 11:26:54,414 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-02 11:26:57,739 - root - INFO - 사용자 1743409820573의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 10
+2025-04-02 11:26:57,859 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 11:26:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:48:37,356 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:48:37] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 10:48:45,973 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 10:48:45,998 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:48:45] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:49:05,074 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:49:05] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 10:49:18,254 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-03 10:49:18,264 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:49:18] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:50:06,587 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:50:07,860 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:50:12,593 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-03 10:50:12,673 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:50:45,996 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:50:49,207 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:50:51,307 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 10:50:51,393 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:50:51] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:51:15,887 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:51:16,965 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:51:19,974 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-03 10:51:20,029 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:51:55,123 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:51:56,243 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-04-03 10:51:57,768 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 6
+2025-04-03 10:51:57,819 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:51:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:52:28,337 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:52:28] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:52:29,028 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:52:31,993 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 7
+2025-04-03 10:52:32,064 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:52:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:53:09,435 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:09] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:53:10,213 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:53:13,104 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 8
+2025-04-03 10:53:13,168 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:13] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:53:25,653 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:25] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:53:29,190 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:53:31,566 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 9
+2025-04-03 10:53:31,615 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:31] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:53:59,337 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:53:59] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 10:54:11,755 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-03 10:54:11,758 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:54:11] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 10:54:35,242 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:54:35] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 10:54:36,009 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 10:54:38,397 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 11
+2025-04-03 10:54:38,444 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 10:54:38] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 11:07:34,176 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 11:07:34,177 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 11:08:16,053 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 11:08:27,318 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 11:08:27,319 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:27] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 11:08:39,734 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:39] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 11:08:40,470 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 11:08:46,527 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-04-03 11:08:46,585 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 11:08:51,820 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:51] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 11:08:52,493 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 11:08:57,010 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 3
+2025-04-03 11:08:57,067 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 11:08:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:20:54,975 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:20:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 12:21:02,370 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 12:21:02,387 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:21:02] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 12:29:16,254 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:29:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 12:29:22,777 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-03 12:29:22,786 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:29:22] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 12:31:30,779 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 12:31:30,783 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 12:31:47,367 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:31:47] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 12:32:00,792 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 12:32:00,816 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:32:00] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 12:32:31,504 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:32:31] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:32:33,393 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:32:41,357 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-04-03 12:32:41,591 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:32:41] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:32:50,272 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:32:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:32:51,589 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:32:57,460 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 3
+2025-04-03 12:32:57,657 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:32:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:33:06,141 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:33:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:33:07,171 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:33:12,747 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 4
+2025-04-03 12:33:13,028 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:33:13] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:36:49,458 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:36:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:36:50,540 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:36:56,606 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 5
+2025-04-03 12:36:56,709 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:36:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:37:03,546 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:37:03] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:37:04,555 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:37:11,977 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 6
+2025-04-03 12:37:12,128 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:37:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:37:14,890 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:37:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:37:15,966 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:37:20,420 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 7
+2025-04-03 12:37:20,542 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:37:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:43:37,587 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:43:37] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 12:43:50,648 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-03 12:43:50,656 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:43:50] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 12:44:24,336 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:44:24] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:44:25,442 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:44:31,837 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 9
+2025-04-03 12:44:32,021 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:44:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:44:35,710 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:44:35] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 12:44:36,760 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 12:44:39,969 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 10
+2025-04-03 12:44:40,086 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 12:44:40] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:00:04,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 13:00:04,879 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 13:00:20,795 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:00:20] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:00:33,840 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 13:00:33,990 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:00:33] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 13:01:08,826 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:01:08] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:01:10,193 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:01:16,761 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-03 13:01:16,939 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:01:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:01:50,415 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:01:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:01:51,469 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:01:55,849 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-03 13:01:56,214 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:01:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:02:32,161 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:02:32] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:02:33,200 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:02:36,188 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 13:02:36,259 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:02:36] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:10:37,084 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 13:10:37,087 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 13:10:54,183 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:10:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:10:54,208 - app - ERROR - Exception on /api/chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask_cors\extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\Downloads\PRAC\fap\app.py", line 36, in wrapper
+    result = loop.run_until_complete(func(*args, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\Downloads\PRAC\fap\app.py", line 61, in chat
+    if user_id not in tutor.session_manager.sessions:
+                      ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PythonTutor' object has no attribute 'session_manager'
+2025-04-03 13:10:54,423 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:10:54] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-04-03 13:30:15,405 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 13:30:15,409 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 13:30:55,623 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:30:55] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:31:03,699 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 13:31:03,714 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:03] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 13:31:40,341 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:40] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:31:48,577 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-03 13:31:48,599 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:48] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 13:32:06,709 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:32:08,015 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:32:15,395 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-03 13:32:15,544 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:32:44,064 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:44] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:32:49,981 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'PrintCollector' object has no attribute 'outputs'
+2025-04-03 13:32:52,991 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 13:32:53,163 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:15,258 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:16,338 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:33:20,562 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 5
+2025-04-03 13:33:20,696 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:26,334 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:27,445 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:33:32,459 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 6
+2025-04-03 13:33:32,597 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:43,080 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:43] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:44,783 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:33:47,741 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 7
+2025-04-03 13:33:47,884 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:58,119 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:33:58] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:33:59,900 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:34:03,091 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 8
+2025-04-03 13:34:03,214 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:34:03] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:34:55,836 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:34:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:34:57,351 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:35:00,337 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 9
+2025-04-03 13:35:00,478 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:00] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:08,578 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:08] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:10,330 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-04-03 13:35:14,699 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 10
+2025-04-03 13:35:14,828 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:18,915 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:18] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:21,107 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-04-03 13:35:24,470 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 11
+2025-04-03 13:35:24,565 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:24] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:45,109 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:35:46,427 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-04-03 13:35:50,766 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 12
+2025-04-03 13:35:50,892 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:35:50] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:36:00,680 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:36:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:36:02,415 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:36:04,125 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 13
+2025-04-03 13:36:04,264 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:36:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:36:41,059 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:36:41] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:36:50,201 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 14
+2025-04-03 13:36:50,203 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:36:50] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 13:38:01,216 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:38:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:38:02,527 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:38:06,923 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 15
+2025-04-03 13:38:07,042 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:38:07] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:38:30,419 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:38:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:38:32,596 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:38:35,486 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 16
+2025-04-03 13:38:35,632 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:38:35] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:49:12,909 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:49:12] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 13:49:20,874 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 17
+2025-04-03 13:49:20,878 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:49:20] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 13:49:47,451 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:49:47] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:49:50,536 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 13:50:01,184 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 18
+2025-04-03 13:50:01,390 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:50:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:50:12,621 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:50:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 13:50:14,503 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ('Line 10: Augmented assignment of attributes is not allowed.', 'Line 11: Augmented assignment of attributes is not allowed.', 'Line 16: Augmented assignment of attributes is not allowed.')
+2025-04-03 13:50:21,716 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 19
+2025-04-03 13:50:21,915 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:50:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:26:45,916 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.40.4.137:5000
+2025-04-03 14:26:45,918 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 14:27:50,476 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:27:50] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 14:27:57,410 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 14:27:57,413 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:27:57] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 14:28:18,263 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:18] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:28:19,051 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 14:28:22,563 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 2
+2025-04-03 14:28:22,630 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:28:26,384 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:28:27,198 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 14:28:30,381 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 3
+2025-04-03 14:28:30,448 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:30] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:28:46,917 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:46] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:28:48,028 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: PrintCollector.__call__() takes 1 positional argument but 2 were given
+2025-04-03 14:28:49,872 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 4
+2025-04-03 14:28:49,951 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:28:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:29:49,213 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:29:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:29:50,326 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 14:29:52,505 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 2, 상호작용 5
+2025-04-03 14:29:52,559 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:29:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:29:56,843 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:29:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:29:57,802 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 14:29:59,645 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 3, 상호작용 6
+2025-04-03 14:29:59,701 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:29:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:30:12,387 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:30:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 14:30:13,420 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 14:30:16,410 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 1, 상호작용 7
+2025-04-03 14:30:16,493 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 14:30:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:07:43,707 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.26:5000
+2025-04-03 17:07:43,742 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 17:08:03,470 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:08:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 17:08:14,245 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 17:08:14,249 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:08:14] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 17:10:00,364 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:10:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:10:01,612 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 17:10:07,845 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-03 17:10:08,077 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:10:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:40:13,705 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:13] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 17:40:25,033 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-03 17:40:25,048 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:25] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 17:40:36,285 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:40:37,954 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 17:40:41,808 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 17:40:41,935 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:41] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:40:52,548 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:52] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:40:53,284 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def 문자열_길이_계산(input_string):'",)
+2025-04-03 17:40:58,587 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-03 17:40:58,685 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:40:58] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:45:28,651 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:45:28] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 17:45:39,377 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-03 17:45:39,379 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:45:39] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 17:46:06,711 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:46:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:46:07,632 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'def count_numbers(numbers):'",)
+2025-04-03 17:46:11,949 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-03 17:46:12,049 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:46:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:53:56,285 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:53:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:53:57,107 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 17:54:01,511 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-03 17:54:01,598 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:54:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 17:55:18,623 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:55:18] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 17:55:27,227 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-03 17:55:27,228 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 17:55:27] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 20:17:25,111 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.26:5000
+2025-04-03 20:17:25,112 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 20:17:46,672 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:17:46] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 20:17:52,783 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-03 20:17:52,788 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:17:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 20:18:22,163 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:18:22] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:18:23,010 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:18:25,309 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-03 20:18:25,444 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:18:25] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:24:44,395 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:24:44] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:24:45,328 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:24:46,847 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-03 20:24:46,962 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:24:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:25:02,472 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:25:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:25:03,245 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:25:05,375 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-03 20:25:05,433 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:25:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:25:11,763 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:25:11] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:25:12,449 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:25:14,245 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-03 20:25:14,321 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:25:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:27:11,868 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:27:11] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:27:13,563 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:27:15,350 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-03 20:27:15,418 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:27:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:27:22,763 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:27:22] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:27:23,664 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'max' is not defined
+2025-04-03 20:27:25,135 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-03 20:27:25,199 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:27:25] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:31:53,084 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:31:53] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:31:53,857 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:31:56,805 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-03 20:31:56,865 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:31:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:32:01,979 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:32:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:32:03,004 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:32:04,386 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-03 20:32:04,470 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:32:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:32:44,016 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:32:44] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:32:44,722 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'sum' is not defined
+2025-04-03 20:32:46,293 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-03 20:32:46,376 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:32:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:35:49,407 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:35:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 20:35:54,043 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 11
+2025-04-03 20:35:54,044 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:35:54] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 20:37:57,501 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:37:57] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:37:58,252 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:38:00,499 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 12
+2025-04-03 20:38:00,572 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:38:00] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:38:14,984 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:38:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:38:15,658 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:38:18,508 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 13
+2025-04-03 20:38:18,573 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:38:18] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:40:16,342 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:40:16] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:40:17,061 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:40:20,317 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 14
+2025-04-03 20:40:20,411 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:40:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:42:17,862 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:42:17] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:42:18,665 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:42:21,576 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 15
+2025-04-03 20:42:21,651 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:42:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:43:44,185 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:43:44] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:43:44,911 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-03 20:43:48,982 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 16
+2025-04-03 20:43:49,060 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:43:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:44:26,741 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:44:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:44:27,573 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 20:44:30,224 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 17
+2025-04-03 20:44:30,375 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:44:30] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:44:55,671 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:44:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:44:56,419 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 20:44:58,755 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 18
+2025-04-03 20:44:58,817 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:44:58] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:45:12,424 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:45:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:45:13,435 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 20:45:15,872 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 19
+2025-04-03 20:45:15,960 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:45:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:46:49,815 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:46:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 20:46:56,531 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 20
+2025-04-03 20:46:56,534 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:46:56] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 20:48:10,747 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:10] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:11,646 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:48:15,819 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 21
+2025-04-03 20:48:15,901 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:29,260 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:29] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:30,006 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:48:31,452 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 368, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 102 (char 150)
+2025-04-03 20:48:31,754 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 22
+2025-04-03 20:48:31,837 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:31] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:43,085 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:43] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:43,838 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:48:46,282 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 23
+2025-04-03 20:48:46,350 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:50,638 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:48:51,698 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:48:53,999 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 24
+2025-04-03 20:48:54,074 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:48:54] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:01,559 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:02,397 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:49:04,970 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 25
+2025-04-03 20:49:05,036 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:07,931 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:07] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:08,655 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:49:10,586 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 26
+2025-04-03 20:49:10,634 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:10] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:26,112 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:26,834 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:49:28,875 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 27
+2025-04-03 20:49:28,966 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:28] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:49,419 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:49:50,127 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:49:52,022 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 28
+2025-04-03 20:49:52,106 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:49:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:50:16,826 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:50:16] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:50:17,576 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:50:19,470 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 29
+2025-04-03 20:50:19,538 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:50:19] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:50:31,915 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:50:31] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:50:33,052 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:50:35,788 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 30
+2025-04-03 20:50:35,841 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:50:35] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:51:05,123 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:51:05] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:51:05,899 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:51:08,581 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 31
+2025-04-03 20:51:08,720 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:51:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:51:26,348 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:51:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:51:27,128 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 20:51:28,701 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 32
+2025-04-03 20:51:28,786 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:51:28] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:52:46,104 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:52:46] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 20:52:46,880 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 20:52:49,744 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 33
+2025-04-03 20:52:49,823 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 20:52:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:00:15,122 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:00:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:00:16,237 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:00:20,549 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 34
+2025-04-03 21:00:20,636 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:00:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:01:18,514 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:01:18] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:01:19,415 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:01:21,292 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 35
+2025-04-03 21:01:21,361 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:01:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:21:40,466 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:21:40] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 21:21:48,531 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 36
+2025-04-03 21:21:48,534 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:21:48] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 21:22:02,016 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:22:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:22:03,320 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:22:07,738 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 37
+2025-04-03 21:22:07,893 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:22:07] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:35:29,637 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:35:29] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:35:30,824 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:35:36,723 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 38
+2025-04-03 21:35:36,777 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:35:36] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:15,483 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:16,463 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:43:21,147 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 39
+2025-04-03 21:43:21,203 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:42,427 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:43,063 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:43:45,740 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 40
+2025-04-03 21:43:45,798 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:45] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:56,659 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:43:57,368 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:43:59,273 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 41
+2025-04-03 21:43:59,357 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:43:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:02,734 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:03,344 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:44:05,885 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 42
+2025-04-03 21:44:05,933 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:40,276 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:40] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:41,017 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:44:43,762 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 43
+2025-04-03 21:44:43,821 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:43] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:49,234 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:44:49,887 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 21:44:52,661 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 44
+2025-04-03 21:44:52,740 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:44:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:45:10,350 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:10] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 21:45:14,646 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 45
+2025-04-03 21:45:14,647 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:14] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 21:45:47,477 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:47] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:45:48,260 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:45:49,839 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 46
+2025-04-03 21:45:49,887 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:45:53,001 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:53] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:45:53,643 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:45:56,887 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 47
+2025-04-03 21:45:56,951 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:45:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:46:01,381 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:46:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:46:02,075 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:46:05,133 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 48
+2025-04-03 21:46:05,198 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:46:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:47:03,074 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:47:03] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:47:03,810 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:47:08,635 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 49
+2025-04-03 21:47:08,696 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:47:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:47:41,816 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:47:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:47:42,597 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'max' is not defined
+2025-04-03 21:47:47,326 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 50
+2025-04-03 21:47:47,377 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:47:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:00,121 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:00,895 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'max' is not defined
+2025-04-03 21:48:06,061 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 51
+2025-04-03 21:48:06,136 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:06] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:10,246 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:10] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:10,930 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:48:15,807 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 52
+2025-04-03 21:48:15,855 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:40,787 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:40] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:41,393 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:48:46,789 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 53
+2025-04-03 21:48:46,862 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:54,379 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:48:54] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:48:55,505 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:49:00,173 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 54
+2025-04-03 21:49:00,239 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:49:00] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:49:14,607 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:49:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:49:15,304 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name 'max' is not defined
+2025-04-03 21:49:20,803 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 55
+2025-04-03 21:49:20,865 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:49:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:49:29,406 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:49:29] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:49:30,108 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_iter_unpack_sequence_' is not defined
+2025-04-03 21:49:35,951 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 56
+2025-04-03 21:49:36,002 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:49:36] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:50:05,323 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:50:05] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:50:06,068 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:50:09,009 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 57
+2025-04-03 21:50:09,070 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:50:09] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:50:45,149 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:50:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:50:45,965 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:50:49,473 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 58
+2025-04-03 21:50:49,521 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:50:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:51:04,687 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:51:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:51:05,382 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:51:07,174 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 59
+2025-04-03 21:51:07,242 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:51:07] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:51:28,612 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:51:28] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 21:51:29,277 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 21:51:32,531 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 60
+2025-04-03 21:51:32,584 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 21:51:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:31:29,921 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:31:29] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:31:34,492 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 61
+2025-04-03 22:31:34,495 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:31:34] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:32:12,971 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:32:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:32:14,274 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 22:32:18,082 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 62
+2025-04-03 22:32:18,147 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:32:18] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:32:30,016 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:32:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:32:31,157 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 22:32:34,080 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 63
+2025-04-03 22:32:34,140 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:32:34] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:40:07,647 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:40:07] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:40:08,340 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 22:40:11,430 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 64
+2025-04-03 22:40:11,479 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:40:11] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:42:03,958 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:42:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:42:10,620 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 65
+2025-04-03 22:42:10,622 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:42:10] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:43:26,480 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:43:26] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:43:33,950 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 66
+2025-04-03 22:43:33,953 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:43:33] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:43:47,618 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:43:47] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:43:56,753 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 67
+2025-04-03 22:43:56,755 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:43:56] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:44:31,732 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:44:31] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:44:38,931 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 68
+2025-04-03 22:44:38,933 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:44:38] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:45:59,776 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:45:59] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:46:00,588 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:46:05,188 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 69
+2025-04-03 22:46:05,282 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:46:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:46:50,035 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:46:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:46:50,709 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:46:53,598 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 70
+2025-04-03 22:46:53,644 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:46:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:47:00,748 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:47:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:47:01,591 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:47:04,955 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 71
+2025-04-03 22:47:05,019 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:47:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:47:14,190 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:47:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:47:14,880 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:47:16,502 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 72
+2025-04-03 22:47:16,562 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:47:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:52:38,402 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:52:38] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:52:39,127 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:52:42,949 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 73
+2025-04-03 22:52:43,016 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:52:43] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:52:54,075 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:52:54] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:52:54,802 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 22:52:56,419 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 74
+2025-04-03 22:52:56,472 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:52:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:53:27,931 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:53:27] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 22:53:32,180 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 75
+2025-04-03 22:53:32,184 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:53:32] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 22:54:50,191 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:54:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:54:50,960 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:54:57,266 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 76
+2025-04-03 22:54:57,376 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:54:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:55:40,604 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:55:40] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:55:41,282 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:55:46,040 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 77
+2025-04-03 22:55:46,107 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:55:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:56:56,280 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:56:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:56:57,016 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:57:01,750 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 78
+2025-04-03 22:57:01,802 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:57:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:57:42,459 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:57:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:57:43,219 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:57:46,245 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 79
+2025-04-03 22:57:46,290 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:57:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:58:02,146 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:58:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:58:02,964 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:58:05,783 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 80
+2025-04-03 22:58:05,845 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:58:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:58:15,610 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:58:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:58:16,532 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: __import__ not found
+2025-04-03 22:58:19,071 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 81
+2025-04-03 22:58:19,125 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:58:19] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:59:55,972 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 22:59:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 22:59:59,106 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 23:00:02,311 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 82
+2025-04-03 23:00:02,375 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:00:02] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:00:18,493 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:00:18] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:00:19,190 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 23:00:21,100 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 83
+2025-04-03 23:00:21,159 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:00:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:24:15,097 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:24:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:24:17,532 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 23:24:23,471 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 84
+2025-04-03 23:24:23,587 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:24:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:25:08,635 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:25:08] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 23:25:15,844 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 85
+2025-04-03 23:25:15,846 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:25:15] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 23:25:41,936 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:25:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:25:42,679 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 23:25:45,711 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 86
+2025-04-03 23:25:45,770 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:25:45] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:17,663 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:17] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:19,288 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 23:47:23,160 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 87
+2025-04-03 23:47:23,217 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:36,615 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:37,345 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 23:47:40,004 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 88
+2025-04-03 23:47:40,048 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:40] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:45,379 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:47:46,111 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-03 23:47:49,113 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 89
+2025-04-03 23:47:49,154 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:47:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:53:03,145 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:53:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-03 23:53:08,656 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 90
+2025-04-03 23:53:08,661 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:53:08] "POST /api/chat HTTP/1.1" 200 -
+2025-04-03 23:54:37,449 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:54:37] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:54:39,363 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 23:54:44,300 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 91
+2025-04-03 23:54:44,464 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:54:44] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:54:48,045 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:54:48] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:54:49,302 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_inplacevar_' is not defined
+2025-04-03 23:54:53,358 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 92
+2025-04-03 23:54:53,510 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:54:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:55:05,180 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:55:05] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:55:06,616 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-03 23:55:10,685 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 93
+2025-04-03 23:55:10,841 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:55:10] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:56:10,528 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:56:10] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-03 23:56:11,684 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_inplacevar_' is not defined
+2025-04-03 23:56:14,342 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 94
+2025-04-03 23:56:14,431 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 23:56:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:19:32,824 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:19:32] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:19:34,690 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_inplacevar_' is not defined
+2025-04-04 00:19:42,036 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 95
+2025-04-04 00:19:42,255 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:19:42] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:34,356 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:35,595 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:20:38,633 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 96
+2025-04-04 00:20:38,831 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:38] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:42,301 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:43,503 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_inplacevar_' is not defined
+2025-04-04 00:20:47,400 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 97
+2025-04-04 00:20:47,553 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:50,648 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:20:51,965 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:20:56,074 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 98
+2025-04-04 00:20:56,272 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:20:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:21:52,435 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:21:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 00:21:56,920 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 99
+2025-04-04 00:21:56,927 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:21:56] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 00:23:07,182 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:23:07] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:23:08,318 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:23:12,281 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 100
+2025-04-04 00:23:12,409 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:23:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:23:31,566 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:23:31] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:23:32,942 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:23:37,450 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 101
+2025-04-04 00:23:37,578 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:23:37] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:24:19,206 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:24:19] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:24:20,466 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:24:22,339 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 102
+2025-04-04 00:24:22,500 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:24:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:24:40,325 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:24:40] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:24:41,557 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:24:43,740 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 103
+2025-04-04 00:24:43,823 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:24:43] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:04,479 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:06,116 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:25:08,199 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 104
+2025-04-04 00:25:08,343 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:19,616 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:19] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:20,863 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:25:22,973 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 105
+2025-04-04 00:25:23,141 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:30,824 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:31,969 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:25:35,155 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 106
+2025-04-04 00:25:35,282 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:35] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:58,411 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:25:58] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:25:59,623 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:26:01,851 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 107
+2025-04-04 00:26:01,965 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:26:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:26:06,036 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:26:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:26:07,233 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:26:10,252 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 108
+2025-04-04 00:26:10,483 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:26:10] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:26:25,614 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:26:25] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:26:26,949 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:26:29,806 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 109
+2025-04-04 00:26:29,928 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:26:29] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:37:37,492 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:37:37] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 00:37:42,695 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 110
+2025-04-04 00:37:42,699 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:37:42] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 00:39:06,601 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:07,727 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:39:12,263 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 111
+2025-04-04 00:39:12,338 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:12] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:25,258 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:25] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:26,514 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:39:28,262 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 112
+2025-04-04 00:39:28,360 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:28] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:31,547 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:31] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:33,034 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 00:39:36,761 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 113
+2025-04-04 00:39:36,842 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:36] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:49,087 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:50,368 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 00:39:52,833 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 114
+2025-04-04 00:39:52,927 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:56,662 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:39:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:39:57,787 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 00:40:01,128 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 115
+2025-04-04 00:40:01,238 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:40:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:40:28,876 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:40:28] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 00:40:29,978 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 00:40:32,783 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 116
+2025-04-04 00:40:32,907 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 00:40:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:08:03,190 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:08:03] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:08:07,153 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:08:14,386 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 117
+2025-04-04 08:08:14,490 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:08:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:08:37,787 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:08:37] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:08:38,908 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:08:42,419 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 118
+2025-04-04 08:08:42,518 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:08:42] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:09:04,629 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:09:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:09:05,947 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:09:11,254 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 119
+2025-04-04 08:09:11,382 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:09:11] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:11:42,429 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:11:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:11:44,297 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:11:51,642 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 120
+2025-04-04 08:11:51,755 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:11:51] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:12:30,007 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:12:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:12:31,299 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:12:34,491 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 121
+2025-04-04 08:12:34,586 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:12:34] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:12:43,823 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:12:43] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:12:44,988 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:12:47,964 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 122
+2025-04-04 08:12:48,087 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:12:48] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:13:50,217 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:13:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:13:51,667 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:13:56,347 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 123
+2025-04-04 08:13:56,473 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:13:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:14:06,044 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:14:06] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:14:07,070 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:14:09,984 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 124
+2025-04-04 08:14:10,066 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:14:10] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:23:19,857 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:23:19] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:23:21,507 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:23:24,606 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 125
+2025-04-04 08:23:24,730 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:23:24] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:23:50,913 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:23:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:23:52,123 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:23:55,011 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 126
+2025-04-04 08:23:55,129 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:23:55] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:00,185 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:01,501 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:24:04,445 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 127
+2025-04-04 08:24:04,554 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:18,401 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:18] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:19,720 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 08:24:22,695 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 128
+2025-04-04 08:24:22,792 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:52,448 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:52] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:24:53,656 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:24:57,301 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 129
+2025-04-04 08:24:57,486 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:24:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:26:16,349 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:26:16] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:26:17,470 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:26:20,969 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 130
+2025-04-04 08:26:21,138 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:26:21] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:26:36,392 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:26:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:26:43,180 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:26:46,933 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 131
+2025-04-04 08:26:47,018 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:26:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:27:34,374 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:27:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:27:35,567 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:27:39,065 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 132
+2025-04-04 08:27:39,260 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:27:39] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:29:36,731 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:29:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:29:37,712 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:29:39,987 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 133
+2025-04-04 08:29:40,075 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:29:40] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:30:04,574 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:30:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:30:06,129 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:30:08,668 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 134
+2025-04-04 08:30:08,807 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:30:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:30:47,821 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:30:47] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:30:49,144 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:30:51,507 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 135
+2025-04-04 08:30:51,633 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:30:51] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:31:00,938 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:31:00] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:31:02,057 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:31:04,404 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 136
+2025-04-04 08:31:04,540 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:31:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:31:22,792 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:31:22] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:31:24,072 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:31:26,616 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 137
+2025-04-04 08:31:26,770 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:31:26] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:42:59,178 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:42:59] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:00,395 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:43:04,377 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 138
+2025-04-04 08:43:04,537 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:11,137 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:11] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:12,245 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:43:16,573 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 139
+2025-04-04 08:43:16,771 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:35,377 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:35] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:37,228 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:43:40,921 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 140
+2025-04-04 08:43:41,195 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:41] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:55,958 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:43:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:43:57,176 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:44:01,358 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 368, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 429 (char 487)
+2025-04-04 08:44:01,456 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 141
+2025-04-04 08:44:01,596 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:44:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:44:04,928 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:44:04] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:44:05,822 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:44:10,081 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 368, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 564 (char 616)
+2025-04-04 08:44:10,139 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 142
+2025-04-04 08:44:10,298 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:44:10] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:44:13,017 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:44:13] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:44:14,397 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:44:16,701 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 143
+2025-04-04 08:44:16,801 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:44:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:47:10,675 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:47:10] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:47:12,006 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:47:16,756 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 368, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 510 (char 568)
+2025-04-04 08:47:16,791 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 144
+2025-04-04 08:47:16,909 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:47:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:47:21,571 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:47:21] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:47:22,765 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:47:24,973 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 145
+2025-04-04 08:47:25,057 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:47:25] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:51:57,019 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:51:57] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 08:51:58,029 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '_unpack_sequence_' is not defined
+2025-04-04 08:52:01,058 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 146
+2025-04-04 08:52:01,167 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 08:52:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:05:50,777 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-04 09:05:50,780 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 09:06:46,001 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:06:46] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:06:52,681 - root - ERROR - 입력 처리 오류: 'PythonTutor' object has no attribute 'sessions'
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 928, in handle_user_input
+    await self.session_manager.save_user_state(user_id, self.sessions[user_id])
+                                                        ^^^^^^^^^^^^^
+AttributeError: 'PythonTutor' object has no attribute 'sessions'
+2025-04-04 09:06:52,711 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:06:52] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:07:25,208 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:07:25] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:07:31,914 - root - ERROR - 입력 처리 오류: 'PythonTutor' object has no attribute 'sessions'
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 928, in handle_user_input
+    await self.session_manager.save_user_state(user_id, self.sessions[user_id])
+                                                        ^^^^^^^^^^^^^
+AttributeError: 'PythonTutor' object has no attribute 'sessions'
+2025-04-04 09:07:31,920 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:07:31] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:14:28,848 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-04 09:14:28,854 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 09:14:53,053 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:14:53] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:14:59,813 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-04 09:14:59,817 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:14:59] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:15:24,292 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:24] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:15:25,456 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:15:27,913 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-04 09:15:28,025 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:28] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:15:42,735 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:15:44,466 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:15:46,606 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-04 09:15:46,732 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:46] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:15:52,787 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:52] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:15:53,931 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:15:56,231 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-04 09:15:56,356 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:15:56] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:28,866 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:28] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:29,930 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:31,541 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-04 09:16:31,648 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:31] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:34,587 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:35,703 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:37,301 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-04 09:16:37,428 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:37] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:41,068 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:42,387 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:44,180 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-04 09:16:44,333 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:44] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:47,052 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:47] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:48,566 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:50,064 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-04 09:16:50,209 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:50] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:52,364 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:52] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:53,509 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:55,016 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-04 09:16:55,134 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:55] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:16:58,030 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:16:59,607 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-04 09:16:59,731 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:16:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:17:02,483 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:17:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:17:03,391 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:17:04,965 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 11
+2025-04-04 09:17:05,119 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:17:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:19:43,329 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-04 09:19:43,332 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 09:20:25,530 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:20:25] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:20:31,386 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-04 09:20:31,390 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:20:31] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:20:51,366 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:20:51] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:20:53,452 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:20:57,585 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-04 09:20:57,722 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:20:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:21:02,555 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:21:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:21:03,773 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:21:06,305 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-04 09:21:06,528 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:21:06] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:21:11,017 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:21:11] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:21:12,314 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:21:13,976 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-04 09:21:14,065 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:21:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:24:29,209 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-04 09:24:29,213 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 09:24:49,001 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:24:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:24:54,544 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-04 09:24:54,551 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:24:54] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:25:12,321 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:13,450 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:15,037 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-04 09:25:15,277 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:15] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:17,941 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:17] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:18,866 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:21,945 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-04 09:25:22,064 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:25,268 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:25] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:26,921 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:28,543 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-04 09:25:28,663 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:28] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:38,990 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:38] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:40,174 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:43,083 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-04 09:25:43,335 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:43] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:48,505 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:48] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:49,915 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:51,586 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-04 09:25:51,732 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:51] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:53,733 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:53] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:25:55,121 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:25:56,906 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-04 09:25:57,060 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:25:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:26:20,995 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:26:20] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:26:22,247 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:26:23,979 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-04 09:26:24,146 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:26:24] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:26:35,321 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:26:35] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:26:36,418 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'a, b = map(int, input().split())'",)
+2025-04-04 09:26:37,835 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-04 09:26:37,987 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:26:37] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:26:40,877 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 2: IndentationError: unexpected indent at statement: 'a, b = map(int, input().split())'",)
+2025-04-04 09:26:42,324 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-04 09:26:42,451 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:26:42] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:12,541 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:14,081 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:27:16,614 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 11
+2025-04-04 09:27:16,775 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:16] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:20,806 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:20] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:21,732 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:27:24,168 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 12
+2025-04-04 09:27:24,262 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:24] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:26,846 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:27,975 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:27:31,950 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 13
+2025-04-04 09:27:32,111 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:41,065 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:42,927 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:27:45,334 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 14
+2025-04-04 09:27:45,491 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:45] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:49,822 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:49] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:27:51,289 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:27:53,889 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 15
+2025-04-04 09:27:54,008 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:27:54] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:29:43,004 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.100:5000
+2025-04-04 09:29:43,006 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 09:30:11,938 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:30:11] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:30:11,966 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 1
+2025-04-04 09:30:11,969 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:30:11] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:30:18,713 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:30:18] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:30:24,586 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 2
+2025-04-04 09:30:24,589 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:30:24] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:30:58,711 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:30:58] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:00,477 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:31:04,356 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 3
+2025-04-04 09:31:04,506 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:04] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:15,525 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:17,105 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:31:19,557 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 4
+2025-04-04 09:31:19,721 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:19] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:24,286 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:24] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:25,400 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: ("Line 1: SyntaxError: invalid syntax at statement: '```python'",)
+2025-04-04 09:31:27,186 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 5
+2025-04-04 09:31:27,422 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:27] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:48,750 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:48] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:50,020 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:31:52,477 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 6
+2025-04-04 09:31:52,626 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:52] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:55,142 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:55] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:31:56,414 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:31:59,839 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 7
+2025-04-04 09:31:59,976 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:31:59] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:02,992 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:02] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:04,003 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:32:07,853 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 8
+2025-04-04 09:32:08,121 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:08] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:17,196 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:17] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:18,643 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:32:23,078 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 9
+2025-04-04 09:32:23,184 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:26,864 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:26] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:28,035 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:32:31,882 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 10
+2025-04-04 09:32:32,019 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:37,601 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:37] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:38,646 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:32:41,101 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 11
+2025-04-04 09:32:41,229 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:41] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:32:52,457 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:32:57,649 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 12
+2025-04-04 09:32:57,656 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:32:57] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:33:36,941 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:36] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:33:37,823 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:33:39,913 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 13
+2025-04-04 09:33:40,051 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:40] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:33:42,947 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:42] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:33:44,540 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:33:47,733 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 14
+2025-04-04 09:33:47,857 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:33:52,778 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:52] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:33:53,863 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:33:57,530 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 15
+2025-04-04 09:33:57,648 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:33:57] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:34:08,903 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:34:08] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:34:09,898 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:34:11,560 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 16
+2025-04-04 09:34:11,660 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:34:11] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:34:16,650 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:34:16] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:34:18,020 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 09:34:20,313 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 17
+2025-04-04 09:34:20,420 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:34:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:35:58,707 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:35:58] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:36:06,915 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 18
+2025-04-04 09:36:06,927 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:36:06] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:36:54,388 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:36:54] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:36:56,242 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:36:58,588 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 19
+2025-04-04 09:36:58,797 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:36:58] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:37:07,056 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:37:07] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:37:08,083 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:37:11,079 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 20
+2025-04-04 09:37:11,185 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:37:11] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:37:15,761 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:37:15] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:37:18,121 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:37:19,842 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 21
+2025-04-04 09:37:20,136 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:37:20] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:39:37,954 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:39:37] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:39:39,228 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:39:45,822 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 22
+2025-04-04 09:39:45,959 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:39:45] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:39:50,330 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:39:50] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:39:51,411 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:39:53,830 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 23
+2025-04-04 09:39:53,963 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:39:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:56:54,919 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:56:54] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 09:57:03,009 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 24
+2025-04-04 09:57:03,017 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:57:03] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 09:57:28,556 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:57:28] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 09:57:30,469 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 09:57:34,947 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 25
+2025-04-04 09:57:35,072 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 09:57:35] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:02:56,953 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:02:56] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:02:59,056 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:03:06,204 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 26
+2025-04-04 10:03:06,319 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:03:06] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:03:19,917 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:03:19] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:03:21,059 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:03:24,247 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 27
+2025-04-04 10:03:24,356 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:03:24] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:03:45,252 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:03:45] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:03:46,354 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:03:49,634 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 28
+2025-04-04 10:03:49,758 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:03:49] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:05:01,911 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:05:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:05:03,271 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:05:05,097 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 29
+2025-04-04 10:05:05,199 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:05:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:14:10,085 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:14:10] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 10:14:10,141 - root - ERROR - 입력 처리 오류: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 895, in handle_user_input
+    response = await self.handle_more_exercise_request(user_input, user_id)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 764, in handle_more_exercise_request
+    new_exercises = await self.content_generator.generate_exercises_with_difficulty(current_topic, new_difficulty)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+2025-04-04 10:14:10,240 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:14:10] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 10:14:52,086 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:14:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 10:15:01,373 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 30
+2025-04-04 10:15:01,377 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:15:01] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 10:15:56,954 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:15:56] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 10:16:02,076 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 31
+2025-04-04 10:16:02,079 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:02] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 10:16:41,852 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:16:43,021 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:16:47,069 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 32
+2025-04-04 10:16:47,128 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:47] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:16:51,348 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:51] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:16:52,126 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:16:53,460 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 33
+2025-04-04 10:16:53,528 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:53] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:16:57,638 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:16:57] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:16:58,309 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:17:01,293 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 34
+2025-04-04 10:17:01,360 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:17:01] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:17:21,236 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:17:21] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:17:21,925 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:17:23,217 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 35
+2025-04-04 10:17:23,269 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:17:23] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:17:27,766 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:17:27] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:17:29,274 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:17:32,367 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 36
+2025-04-04 10:17:32,423 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:17:32] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:18:27,820 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:18:27] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:18:28,960 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 10:18:31,610 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 37
+2025-04-04 10:18:31,693 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:18:31] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:53:24,335 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:53:24] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 10:53:31,050 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 38
+2025-04-04 10:53:31,082 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:53:31] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 10:53:43,569 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:53:43] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 10:53:50,207 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 39
+2025-04-04 10:53:50,209 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:53:50] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 10:54:14,718 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:14] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:54:16,370 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:54:19,161 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 40
+2025-04-04 10:54:19,275 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:19] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:54:22,669 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:22] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:54:23,532 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:54:26,565 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 41
+2025-04-04 10:54:26,637 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:26] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:54:30,866 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:30] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 10:54:31,533 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 10:54:34,394 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 42
+2025-04-04 10:54:34,447 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 10:54:34] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:01:46,463 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:01:46] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:01:47,714 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 11:01:51,744 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 43
+2025-04-04 11:01:51,821 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:01:51] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:02:01,560 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:02:01] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:02:02,388 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 11:02:05,559 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 44
+2025-04-04 11:02:05,618 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:02:05] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:02:12,372 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:02:12] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:02:13,664 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: name '__metaclass__' is not defined
+2025-04-04 11:02:14,845 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 45
+2025-04-04 11:02:14,907 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:02:14] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:03:09,012 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:03:09] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:03:10,555 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 46
+2025-04-04 11:03:10,557 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:03:10] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 11:03:43,675 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:03:43] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:03:43,685 - root - ERROR - 입력 처리 오류: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 895, in handle_user_input
+    response = await self.handle_more_exercise_request(user_input, user_id)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 764, in handle_more_exercise_request
+    new_exercises = await self.content_generator.generate_exercises_with_difficulty(current_topic, new_difficulty)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+2025-04-04 11:03:43,696 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:03:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 11:09:52,357 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:09:52] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:09:57,638 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 47
+2025-04-04 11:09:57,643 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:09:57] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 11:10:58,010 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:10:58] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:10:59,465 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 11:11:03,744 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 48
+2025-04-04 11:11:03,819 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:03] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:16,916 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:16] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:17,864 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 11:11:21,995 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 383, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 225 (char 282)
+2025-04-04 11:11:22,273 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 49
+2025-04-04 11:11:22,395 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:22] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:27,588 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:27] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:28,273 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 11:11:30,630 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 383, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 210 (char 264)
+2025-04-04 11:11:30,658 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 50
+2025-04-04 11:11:30,735 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:30] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:34,381 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:34] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:35,039 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 11:11:38,181 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 51
+2025-04-04 11:11:38,286 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:38] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:41,377 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:41] "OPTIONS /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:11:42,310 - root - ERROR - 코드 비교 중 오류 발생: RestrictedPython 오류: 'NoneType' object has no attribute '_call_print'
+2025-04-04 11:11:45,693 - root - ERROR - JSON 파싱 오류
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 383, in review_error_and_suggest_correction
+    result = json.loads(json_str)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 4 column 203 (char 257)
+2025-04-04 11:11:45,711 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 52
+2025-04-04 11:11:45,785 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:11:45] "POST /api/submit-code HTTP/1.1" 200 -
+2025-04-04 11:21:03,641 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:21:03] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:21:16,378 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 53
+2025-04-04 11:21:16,388 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:21:16] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 11:21:51,526 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:21:51] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:21:58,486 - root - INFO - 사용자 1743561052477의 대시보드 업데이트: 챕터 01, 문제 0, 상호작용 54
+2025-04-04 11:21:58,488 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:21:58] "POST /api/chat HTTP/1.1" 200 -
+2025-04-04 11:22:16,960 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:22:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-04-04 11:22:16,973 - root - ERROR - 입력 처리 오류: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+Traceback (most recent call last):
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 895, in handle_user_input
+    response = await self.handle_more_exercise_request(user_input, user_id)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dododo\Downloads\PRAC\fap\ai.py", line 764, in handle_more_exercise_request
+    new_exercises = await self.content_generator.generate_exercises_with_difficulty(current_topic, new_difficulty)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ContentGenerator' object has no attribute 'generate_exercises_with_difficulty'
+2025-04-04 11:22:17,000 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 11:22:17] "POST /api/chat HTTP/1.1" 200 -

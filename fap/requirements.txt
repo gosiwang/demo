@@ -1,0 +1,9 @@
+google-generativeai
+transformers
+torch
+python-dotenv
+huggingface-hub
+RestrictedPython
+scikit-learn
+astunparse
+aiofiles

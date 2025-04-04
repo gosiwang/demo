@@ -1,0 +1,172 @@
+/* ChatLoader.css - 별도 파일로 만들어 import하거나 
+스타일 태그 내에 추가할 수 있습니다 */
+
+/* 타이핑 커서 애니메이션 */
+.typing-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background-color: #333;
+    margin-left: 2px;
+    animation: blink 1s step-end infinite;
+  }
+  
+  /* 다크 모드에서의 커서 */
+  .dark-mode .typing-cursor {
+    background-color: #fff;
+  }
+  
+  @keyframes blink {
+    from, to { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  
+  /* 로딩 컨테이너 스타일 */
+  .loader-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.05);
+    margin: 8px 0;
+    font-family: monospace;
+  }
+  
+  .dark-mode .loader-container {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  /* 고급 타이핑 효과 스타일 */
+  .typing-effect-container {
+    font-family: monospace;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+  }
+  
+  /* 파이썬 코드 블록 타이핑 효과 */
+  .typing-code-block {
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: 'Courier New', monospace;
+    overflow-x: auto;
+  }
+  
+  .dark-mode .typing-code-block {
+    background-color: #282c34;
+  }
+  
+  /* 점진적 나타나기 애니메이션 (Claude 스타일) */
+  .claude-fade-in {
+    opacity: 0;
+    animation: fadeInSlow 1s ease forwards;
+  }
+  
+  @keyframes fadeInSlow {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  /* 코드 하이라이팅 효과 */
+  .highlight-text {
+    position: relative;
+    display: inline;
+  }
+  
+  .highlight-text::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    background-color: rgba(255, 221, 0, 0.3);
+    z-index: -1;
+    border-radius: 2px;
+  }
+  
+  /* 생각 중 애니메이션 (점 3개) */
+  .thinking-dots {
+    display: inline-flex;
+    align-items: center;
+    height: 1em;
+  }
+  
+  .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: currentColor;
+    margin: 0 2px;
+    opacity: 0.7;
+  }
+  
+  .dot:nth-child(1) {
+    animation: dotPulse 1.5s infinite 0s;
+  }
+  
+  .dot:nth-child(2) {
+    animation: dotPulse 1.5s infinite 0.2s;
+  }
+  
+  .dot:nth-child(3) {
+    animation: dotPulse 1.5s infinite 0.4s;
+  }
+  
+  @keyframes dotPulse {
+    0% { transform: scale(1); opacity: 0.7; }
+    50% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.7; }
+  }
+  
+  /* 진행 표시줄 애니메이션 */
+  .progress-bar {
+    width: 100%;
+    height: 4px;
+    background-color: #eee;
+    border-radius: 2px;
+    overflow: hidden;
+    margin: 8px 0;
+  }
+  
+  .progress-bar-fill {
+    height: 100%;
+    background-color: #00e5ff;
+    width: 0%;
+    border-radius: 2px;
+    animation: progressFill 3s ease-in-out infinite;
+  }
+  
+  @keyframes progressFill {
+    0% { width: 0%; }
+    50% { width: 70%; }
+    75% { width: 90%; }
+    100% { width: 98%; }
+  }
+  
+  /* 클로드 스타일 스트림 효과 */
+  .claude-stream-container {
+    position: relative;
+    padding: 4px 0;
+  }
+  
+  .claude-stream-container::before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: #6610f2;
+    border-radius: 2px;
+  }
+  
+  /* 애니메이션 속도 조절 (JS에서 사용) */
+  :root {
+    --typing-speed: 30ms;
+    --cursor-blink-speed: 1s;
+    --thinking-speed: 1.5s;
+  }
