@@ -104,10 +104,15 @@ class ContentGenerator:
         response = await self.generate_content_async(prompt)
         exercises = await self.parse_exercises(response.text, topic)
         # 생성된 문제 각각에 대해 정답 코드 생성 & DB 저장
+
+        # generate_answer()에 문제 instructions, input_example, output_example까지 넘겨줌
         for exercise in exercises:
             exercise["correct_answer"] = await self.generate_answer(
-                topic,             # ← 주제도 함께 전달
+                topic,
                 exercise["question"],
+                exercise["instructions"],
+                exercise["input_example"],
+                exercise["output_example"],
                 exercise["number"]
             )
         return exercises
@@ -149,7 +154,7 @@ class ContentGenerator:
             return None
         return {
             "number": f"{idx:03d}",
-            "topic": topic, 
+            "topic": topic,
             "question": question,
             "instructions": instructions,
             "input_example": input_example.strip(),
@@ -157,24 +162,43 @@ class ContentGenerator:
             "correct_answer": ""
         }
 
-    async def generate_answer(self, topic, question, problem_number=None):
+    async def generate_answer(
+        self,
+        topic,
+        question,
+        instructions,
+        input_example,
+        output_example,
+        problem_number=None
+    ):
         """
-        주제에 맞는 로직, 문제의 입출력 예시를 정확히 반영하도록 프롬프트 강화
+        주제에 맞는 로직, 문제의 지시사항/입출력 예시를 정확히 반영하도록 프롬프트 강화
         """
-        additional_req = f"""
-        - 이 문제는 '{topic}' 주제의 로직/문법/자료형을 반드시 활용하세요.
-        - 문제에서 제시한 '입력 예'와 '출력 예'에 맞춰 정확히 동작하도록 작성하세요.
-        - 불필요한 추가 출력이나 주석은 넣지 말고, 코드만 작성해주세요.
-        """
-
+        joined_instructions = "\n".join(instructions)
         prompt = f"""
-        다음 문제에 대한 파이썬 정답 코드를 작성하세요:
-        문제 설명:
-        {question}
+        아래는 파이썬 연습문제입니다.
 
-        아래 사항을 반드시 지키세요:
-        {additional_req}
+        주제: {topic}
+        문제 설명: {question}
+
+        상세 지시사항:
+        {joined_instructions}
+
+        입력 예:
+        {input_example}
+
+        출력 예:
+        {output_example}
+
+        아래 요구사항을 반드시 충족하여 파이썬 정답 코드를 작성하세요:
+        1) 반드시 위 주제({topic})와 관련된 로직/문법을 활용할 것
+        2) 문제에서 제시한 '입력 예'와 '출력 예'에 맞춰 정확히 동작해야 함
+        3) 불필요한 추가 출력이나 주석은 넣지 말 것
+        4) 문제 지시사항을 충분히 반영할 것
+
+        코드만 작성해주세요.
         """
+
         response = await self.generate_content_async(prompt)
         answer_code = response.text.strip()
         await self.save_answer_to_db(question, answer_code, problem_number)
@@ -217,7 +241,7 @@ class MyPrintCollector:
 class CodeVerifier:
     def __init__(self, api_key):
         # 아래 한 줄 추가 (혹은 유지)해서 generativeai 초기화
-        genai.configure(api_key=api_key)  
+        genai.configure(api_key=api_key)
         self.gemini_model = genai.GenerativeModel('gemini-1.5-flash')
         self.error_model_name = "MilkTeaaaaaeee/1235657"
         self.error_model = AutoModelForSequenceClassification.from_pretrained(
@@ -337,36 +361,43 @@ class CodeVerifier:
         except py_compile.PyCompileError:
             return False
 
+    # 여기서 "문제" 대신 exercise['question']을 반영해 보다 직설적이 되도록 수정
     async def review_error_and_suggest_correction(self, user_code, exercise, error_type):
         """
-        review_error_and_suggest_correction 메서드 프롬프트를 수정해,
         - 문법적 오류가 없고
         - 논리적 오류가 없고
-        - 문제에서 지시한 사항에 맞게 정상 동작
-        이 세 조건을 모두 충족하면 "수정이 필요하지 않음"만 출력하도록 요청
+        - 문제에서 지시한 사항을 정확히 이행
+        - 문제에서 설명한 입력과 출력이 문제의 의도대로 동작
+        - 로직이 오류 없고, 문제에서 의도하는 로직이 잘 반영
+        - 문제에서 지시한 내용과 제공 코드가 무관하지 않아야 함
         """
         prompt = f"""
         다음 Python 코드에서 오류를 검토해주세요.
-        문제 설명: {exercise['question']}
+
+        문제(실제 문제 내용): {exercise['question']}
+
         사용자 코드:
         {user_code}
+
         오류 유형 (MilkTeaaaaaeee 모델): {error_type}
 
         아래 조건들을 모두 만족하는지 확인하세요:
         1) 코드에 문법적 오류가 없는지
         2) 논리적 오류(예: 잘못된 로직, 불필요한 로직 등)가 없는지
-        3) 문제가 지시한 사항을 정확히 이행하여여 정상적으로 동작하는지
+        3) '{exercise['question']}'에서 지시한 사항을 정확히 이행하여 정상적으로 동작하는지
+        4) '{exercise['question']}'에서 설명한 입력과 출력이 문제의 의도대로 동작해야 함
+        5) 로직이 오류가 없더라도 '{exercise['question']}'에서 의도한 로직이 잘 반영되어야 함
+        6) '{exercise['question']}'에서 지시한 내용과 제공한 코드가 무관하지 않은지
 
-        모두 충족한다면 "수정이 필요하지 않음"만 "correction_suggestion" 값으로 넣어주세요.
+        모두 만족한다면 "수정이 필요하지 않음"만 "correction_suggestion" 값으로 넣어주세요.
 
         아래 내용을 반드시 JSON 형태(한글)로만 응답해 주세요:
         {{
           "error_type": "재검토된 오류 유형",
           "error_line": "오류가 있는 라인 표시 (예: 3)",
-          "correction_suggestion": "위 조건을 만족하지 않으면 구체적인 수정 방안을, 모두 만족하면 '수정이 필요하지 않음' 만 넣어주세요."
+          "correction_suggestion": "위 조건중 하나라도 만족하지 않으면 구체적인 수정 방안을, 모두 만족하면 '수정이 필요하지 않음' 만 넣어주세요."
         }}
         """
-
         try:
             response = await asyncio.to_thread(self.gemini_model.generate_content, prompt)
             result_text = response.text.strip()
@@ -761,7 +792,12 @@ class PythonTutor:
         else:
             new_difficulty = difficulty_levels[current_index + 1]
             self.session_manager.sessions[user_id]["difficulty_level"] = new_difficulty
-            new_exercises = await self.content_generator.generate_exercises_with_difficulty(current_topic, new_difficulty)
+
+            # generate_exercises_with_difficulty가 있다고 가정
+            new_exercises = await self.content_generator.generate_exercises_with_difficulty(
+                current_topic, new_difficulty
+            )
+
             self.session_manager.sessions[user_id]["last_problem"] = 0
             self.session_manager.sessions[user_id]["current_exercises"].extend(new_exercises)
             return f"📚 {current_topic} 추가 연습문제:\n\n" + self.format_exercises(new_exercises)
@@ -797,7 +833,6 @@ class PythonTutor:
             )
             if is_correct:
                 exercise["solved"] = True
-                # 수정 포인트 ↓
                 submission_data = {
                     "user_id": user_id,
                     "code": code,
@@ -807,7 +842,6 @@ class PythonTutor:
                 }
                 await self.api_client.save_submission(submission_data)
                 self.session_manager.sessions[user_id]["interaction_count"] += 1
-                # 수정된 부분: save_user_state()에 self.session_manager.sessions[user_id] 전달
                 await self.session_manager.save_user_state(user_id, self.session_manager.sessions[user_id])
                 return {
                     "success": True,
@@ -828,7 +862,6 @@ class PythonTutor:
             }
             await self.api_client.save_submission(submission_data)
             self.session_manager.sessions[user_id]["interaction_count"] += 1
-            # 여기에서도 동일하게 수정 ↓
             await self.session_manager.save_user_state(user_id, self.session_manager.sessions[user_id])
             return {
                 "success": True,
