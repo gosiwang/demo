@@ -1,32 +1,63 @@
-# 🐍 PythonTutor AI 학습 플랫폼
+# 🧩 CodeSchooler
 
-**PythonTutor**는 파이썬 개념 학습·연습문제 생성·자동 채점·실시간 피드백을 한 자리에서 제공하는 웹 애플리케이션입니다.  
-백엔드는 Flask + Gemini API, 프론트엔드는 React + CodeMirror를 사용하며 MySQL로 제출/정답 데이터를 관리합니다.
+> AI-기반 코딩 학습 플랫폼  
+> (React - Vite &nbsp;|&nbsp; Flask - Gemini &nbsp;|&nbsp; Spring Boot + MySQL)
 
----
-
-## ✨ 주요 기능
-
-| 그룹 | 설명 |
-| ---- | ---- |
-| 학습 챗봇 | 주제별 **이론**·**연습문제** 생성, 다국어 지원(기본 한국어) |
-| 자동 채점 | RestrictedPython 샌드박스 실행 → 정답 코드 비교 → 오류 유형 분류 & 수정 제안 |
-| 힌트 시스템 | 요청 횟수에 따라 난이도를 조절해 1~4단계 힌트 제공 |
-| 대시보드 알림 | 10번 단위 상호작용마다 진행 상황·격려 메시지 출력 |
-| 실시간 코드 편집 | CodeMirror (vscode-dark 테마) + 문제 번호별 코드 제출 UI |
-| REST API | `/api/chat`, `/api/submit-code`, `/api/change-problem` 등 |
+| **Preview** | **학습 챗봇** | **실시간 채점** |
+|:--:|:--:|:--:|
+| <img src="docs/img/main.png" width="260"/> | <img src="docs/img/chat.gif" width="260"/> | <img src="docs/img/judge.gif" width="260"/> |
 
 ---
 
-## 🛠️ 기술 스택
-
-- **Backend** : Python 3.11, Flask 2.x, asyncio, Gemini 1.5 Flash, RestrictedPython, SQLAlchemy(JPA 추상화는 Spring용)
-- **Frontend**: React 18, Vite, CodeMirror @uiw, Tailwind(선택)  
-- **Database** : MySQL 8, JPA(Hibernate) – Spring Boot 예제 코드 포함
-- **ML 모델** : Hugging Face `MilkTeaaaaaeee/1235657` (오류 분류), scikit-learn(TFIDF + Naive Bayes 의도 분류)
-- **DevOps** : dotenv, docker-compose(선택), logging
+## 📑 Table of Contents
+1. [Why CodeSchooler?](#why-codeschooler)
+2. [Features](#features)
+3. [System Architecture](#system-architecture)
+4. [Tech Stack](#tech-stack)
+5. [Monorepo Layout](#monorepo-layout)
+6. [Quick Start](#quick-start)
+7. [Configuration](#configuration)
+8. [Local Run (Without Docker)](#local-run-without-docker)
+9. [API Reference](#api-reference)
+10. [Database Schema](#database-schema)
+11. [Front-end Dev Guide](#front-end-dev-guide)
+12. [Testing & Quality](#testing--quality)
+13. [Contribution Rules](#contribution-rules)
+14. [License](#license)
 
 ---
 
-## 📂 디렉터리 구조
+## Why CodeSchooler?
+* **Gemini 1.5-flash**로 → 주제별 *이론*·*연습문제*·*정답 코드* 자동 생성  
+* **Flask** 마이크로서비스가 실시간 채점 & 오류 분석 (*RestrictedPython* 샌드박스)  
+* **Spring Boot**가 회원·문제·제출을 관리 + JPA Entity → MySQL  
+* **React** + CodeMirror 에디터 + 타이핑 / 로딩 애니메이션으로 몰입감  
+→ “**문제 생성 → 풀이 → 피드백 → 통계**” 전 과정이 한 플랫폼 안에서 순환
 
+---
+
+## Features
+| 분류 | 기능 | 구현 코드 |
+|------|------|----------|
+| 학습 콘텐츠 | • `ContentGenerator.generate_theory()`<br>• `generate_exercises()` – 난이도별 문제·정답 자동 생성 | `ai/python_tutor.py` |
+| 코드 채점 | • `CodeVerifier.compare_code()` – 샌드박스 실행·출력 비교<br>• 오류 유형 분류(HF 모델) + 수정 제안 | `ai/code_verifier.py` |
+| 백엔드 API | • 회원가입/로그인 (JWT off : `SecurityConfig`)<br>• 제출/정답 CRUD REST | `backproject/...` |
+| 프런트 UI | • 채팅 / 코드 뷰 전환 슬라이드<br>• 실시간 타이핑·응답 타이머<br>• 성능 파이·바 차트 | `frontend/src/pages/*` |
+| DevOps | • `.env` 환경변수 → 모든 레이어 통일<br>• `docker-compose.yml` – 3 컨테이너 (one-network) | root |
+
+---
+
+## System Architecture
+```text
+┌──────────────┐         REST       ┌────────────────┐
+│  React       │  ───────────────►  │  Flask (AI)    │
+│  (Vite)      │   /api/chat       │  PythonTutor    │
+│  Port 3000   │   /api/submit     │  Gemini / HF    │
+└──────┬───────┘                   └──────┬──────────┘
+       │                                DB save
+       │ REST (JSON)                      │
+       ▼                                  ▼
+┌────────────────┐      JPA       ┌──────────────────┐
+│ Spring Boot    │  ◄──────────►  │   MySQL 8.x      │
+│ Port 8080      │                │ codingmachine DB │
+└────────────────┘                └──────────────────┘
