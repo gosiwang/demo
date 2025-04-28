@@ -61,3 +61,13 @@
 │ Spring Boot    │  ◄──────────►  │   MySQL 8.x      │
 │ Port 8080      │                │ codingmachine DB │
 └────────────────┘                └──────────────────┘
+
+## ⚙️ 기술 스택
+
+| 레이어 | 사용 기술 | 주요 역할 |
+|--------|-----------|-----------|
+| **Frontend** | <br>• **React 18**<br>• **Vite**<br>• **CodeMirror 6**<br>• **Tailwind CSS**<br>• **Recharts**, **Lucide-react** | 싱글 페이지 UI, 코드 편집기, 차트·아이콘 |
+| **AI Service** | <br>• **Python 3.10**<br>• **Flask 2**<br>• **google-generativeai**<br>• **Transformers**<br>• **RestrictedPython** | Gemini API 호출, 문제 생성·채점, 샌드박스 실행 |
+| **Backend API** | <br>• **Java 21**<br>• **Spring Boot 3.2**<br>• **Spring Security** (JWT OFF)<br>• **Spring Data JPA + Hibernate** | 회원·문제·제출 CRUD, REST API |
+| **Database** | **MySQL 8.x** | `codingmachine` 스키마 |
+| **DevOps / Infra** | <br>• **Docker Compose v2**<br>• **dotenv**<br>• **GitHub Actions**<br>• **Codecov** | 멀티 컨테이너 오케스트레이션, CI/CD, 커버리지 |
